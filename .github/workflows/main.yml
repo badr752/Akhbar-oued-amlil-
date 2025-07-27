@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>أخبار واد أمليل</title>
+<style>
+  body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background: #f9f9f9;
+    margin: 0; padding: 0;
+    color: #333;
+  }
+  header {
+    background-color: #005f99;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    font-size: 2rem;
+  }
+  nav {
+    background: #004f7a;
+    display: flex;
+    justify-content: center;
+  }
+  nav a {
+    color: white;
+    text-decoration: none;
+    padding: 12px 20px;
+    font-weight: bold;
+  }
+  nav a:hover {
+    background-color: #003a59;
+  }
+  main {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 0 15px;
+  }
+  article {
+    background: white;
+    margin-bottom: 20px;
+    padding: 15px 20px;
+    border-radius: 6px;
+    box-shadow: 0 0 5px #aaa;
+  }
+  article h2 {
+    margin-top: 0;
+    color: #005f99;
+  }
+  footer {
+    text-align: center;
+    padding: 12px;
+    background: #eee;
+    font-size: 0.9rem;
+    color: #555;
+  }
+</style>
+</head>
+<body>
+<header>أخبار واد أمليل</header>
+<nav>
+  <a href="index.html">الرئيسية</a>
+  <a href="about.html">عن الموقع</a>
+  <a href="contact.html">تواصل معنا</a>
+</nav>
+<main>
+  <article>
+    <h2>افتتاح مهرجان واد أمليل السنوي</h2>
+    <p>انطلقت فعاليات مهرجان واد أمليل بحضور جمع كبير من الزوار والمهتمين بالثقافة والفنون.</p>
+  </article>
+  <article>
+    <h2>حالة الطقس في واد أمليل</h2>
+    <p>توقعات الطقس تشير إلى أمطار خفيفة خلال الأسبوع القادم مع انخفاض في درجات الحرارة.</p>
+  </article>
+  <article>
+    <h2>تطوير البنية التحتية في المنطقة</h2>
+    <p>بدأت السلطات المحلية في مشروع لتحديث الطرق وتطوير المرافق العامة لتحسين حياة السكان.</p>
+  </article>
+  <article>
+    <h2>مبادرات شبابية لتنظيف واد أمليل</h2>
+    <p>قام مجموعة من الشباب بحملة تطوعية لتنظيف الأحياء والمناطق الطبيعية في المدينة.</p>
+  </article>
+  <article>
+    <h2>افتتاح مكتبة عامة جديدة</h2>
+    <p>تم افتتاح مكتبة عامة جديدة توفر مصادر تعليمية وترفيهية لجميع الأعمار.</p>
+  </article>
+</main>
+<footer>© 2025 أخبار واد أمليل | جميع الحقوق محفوظة</footer>
+</body>
+</html>
