@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>عن موقع أخبار واد أمليل</title>
+<style>
+  body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background: #f9f9f9;
+    margin: 0; padding: 0;
+    color: #333;
+  }
+  header {
+    background-color: #005f99;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    font-size: 2rem;
+  }
+  nav {
+    background: #004f7a;
+    display: flex;
+    justify-content: center;
+  }
+  nav a {
+    color: white;
+    text-decoration: none;
+    padding: 12px 20px;
+    font-weight: bold;
+  }
+  nav a:hover {
+    background-color: #003a59;
+  }
+  main {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 0 15px;
+    background: white;
+    border-radius: 6px;
+    box-shadow: 0 0 5px #aaa;
+  }
+  footer {
+    text-align: center;
+    padding: 12px;
+    background: #eee;
+    font-size: 0.9rem;
+    color: #555;
+  }
+</style>
+</head>
+<body>
+<header>أخبار واد أمليل</header>
+<nav>
+  <a href="index.html">الرئيسية</a>
+  <a href="about.html">عن الموقع</a>
+  <a href="contact.html">تواصل معنا</a>
+</nav>
+<main>
+  <h1>عن موقع أخبار واد أمليل</h1>
+  <p>موقع إخباري يهدف إلى تقديم آخر الأخبار والمستجدات من منطقة واد أمليل بأسلوب بسيط وواضح.</p>
+  <p>نسعى لتغطية مختلف المواضيع التي تهم سكان المنطقة والزوار، مع التركيز على الأخبار المحلية والثقافية والاجتماعية.</p>
+  <p>شكراً لزيارتكم ونتمنى أن تجدوا في موقعنا محتوى مفيداً وموثوقاً.</p>
+</main>
+<footer>© 2025 أخبار واد أمليل | جميع الحقوق محفوظة</footer>
+</body>
+</html>
